@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gorav Sharma</h1>
-<h3 align="center">A passionate Ethical Hacker from India</h3>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=From+Vulnerabilities+to+Vigilance." alt="Typing SVG" /></a><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Safe.;Secure.;Defend." alt="Typing SVG" /></a>
