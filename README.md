@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorav07" alt="gorav07" /></a> </p>
 
-- 🔭 I’m currently working on **Emo Sense**
+- 🔭 I’m currently working on **Basic thing**
 
 - 🌱 I’m currently learning **Python,Networking**
 
